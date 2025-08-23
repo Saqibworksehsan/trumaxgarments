@@ -144,7 +144,7 @@ const Products = () => {
                 <img
                   src={product.image}
                   alt={product.name}
-                  className="w-full h-64 object-cover group-hover:scale-110 transition-transform duration-500"
+                  className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
                 />
                 <div className="absolute top-4 left-4">
                   <span className="bg-red-500 text-white px-3 py-1 rounded-full text-sm font-medium">
@@ -220,7 +220,7 @@ const Products = () => {
 
                 {/* Order Button */}
                 <a
-                  href={`https://wa.me/919876543210?text=Hi%20Trumax,%20I%20want%20to%20order%20${product.name}%20-%20${product.price}`}
+                  href={`https://wa.me/918220723381?text=Hi%20Trumax,%20I%20want%20to%20order%20${product.name}%20-%20${product.price}`}
                   className="w-full inline-flex items-center justify-center px-6 py-3 bg-red-500 text-white font-semibold rounded-lg hover:bg-red-600 transition-colors duration-200 group-hover:shadow-lg"
                 >
                   <ShoppingCart className="mr-2 h-5 w-5" />
@@ -248,7 +248,7 @@ const Products = () => {
                 <span className="ml-2 bg-red-500 text-white px-2 py-1 rounded text-sm">Save ₹495</span>
               </div>
               <a
-                href="https://wa.me/919876543210?text=Hi%20Trumax,%20I%20want%20to%20order%20Essential%20Pack%20-%20₹1,299"
+                href="https://wa.me/918220723381?text=Hi%20Trumax,%20I%20want%20to%20order%20Essential%20Pack%20-%20₹1,299"
                 className="inline-flex items-center px-6 py-3 bg-red-500 text-white font-semibold rounded-lg hover:bg-red-600 transition-colors"
               >
                 <ShoppingCart className="mr-2 h-4 w-4" />
@@ -265,7 +265,7 @@ const Products = () => {
                 <span className="ml-2 bg-red-500 text-white px-2 py-1 rounded text-sm">Save ₹598</span>
               </div>
               <a
-                href="https://wa.me/919876543210?text=Hi%20Trumax,%20I%20want%20to%20order%20Premium%20Pack%20-%20₹1,899"
+                href="https://wa.me/918220723381?text=Hi%20Trumax,%20I%20want%20to%20order%20Premium%20Pack%20-%20₹1,899"
                 className="inline-flex items-center px-6 py-3 bg-gray-900 text-white font-semibold rounded-lg hover:bg-gray-800 transition-colors"
               >
                 <ShoppingCart className="mr-2 h-4 w-4" />

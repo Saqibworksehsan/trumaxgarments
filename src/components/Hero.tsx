@@ -25,7 +25,7 @@ const Hero = () => {
             {/* CTA Buttons */}
             <div className="flex flex-col sm:flex-row gap-4">
               <a
-                href="https://wa.me/919876543210?text=Hi%20Trumax,%20I%20want%20to%20order%20innerwear."
+                href="https://wa.me/918220723381?text=Hi%20Trumax,%20I%20want%20to%20order%20innerwear."
                 className="inline-flex items-center justify-center px-8 py-4 bg-red-500 text-white font-semibold rounded-lg shadow-lg hover:bg-red-600 hover:shadow-xl transform hover:-translate-y-1 transition-all duration-200 group"
               >
                 <MessageCircle className="mr-3 h-5 w-5 group-hover:scale-110 transition-transform" />

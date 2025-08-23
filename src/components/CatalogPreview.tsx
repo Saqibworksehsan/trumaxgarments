@@ -5,19 +5,19 @@ const products = [
   {
     name: "Bamboo Trunks",
     tagline: "ultra-soft, anti-odor",
-    image: "https://images.pexels.com/photos/8532616/pexels-photo-8532616.jpeg?auto=compress&cs=tinysrgb&w=400",
+    image: "bambootrunks.png",
     features: ["Bamboo fiber blend", "Odor resistant", "Ultra-soft comfort"]
   },
   {
     name: "Cotton Vests",
     tagline: "breathable, shrink-proof",
-    image: "https://images.pexels.com/photos/8532661/pexels-photo-8532661.jpeg?auto=compress&cs=tinysrgb&w=400",
+    image: "cottonvest.png",
     features: ["100% combed cotton", "Pre-shrunk", "Breathable mesh"]
   },
   {
     name: "Performance Boxers",
     tagline: "4-way stretch, tag-free",
-    image: "https://images.pexels.com/photos/8532695/pexels-photo-8532695.jpeg?auto=compress&cs=tinysrgb&w=400",
+    image: "performanceboxer.png",
     features: ["4-way stretch fabric", "Tag-free design", "Moisture-wicking"]
   }
 ];
@@ -72,7 +72,7 @@ const CatalogPreview = () => {
                 </ul>
                 
                 <a
-                  href="https://wa.me/919876543210?text=Hi%20Trumax,%20I%20want%20to%20order%20innerwear."
+                  href="https://wa.me/918220723381?text=Hi%20Trumax,%20I%20want%20to%20order%20innerwear."
                   className="w-full inline-flex items-center justify-center px-6 py-3 bg-gray-900 text-white font-semibold rounded-lg hover:bg-red-500 transition-colors duration-200 group-hover:shadow-lg"
                 >
                   <ShoppingCart className="mr-2 h-5 w-5" />

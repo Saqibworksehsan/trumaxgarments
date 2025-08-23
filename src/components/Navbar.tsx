@@ -81,7 +81,7 @@ const Navbar = () => {
                 </Link>
               ))}
               <a
-                href="https://wa.me/919876543210?text=Hi%20Trumax,%20I%20want%20to%20order%20innerwear."
+                href="https://wa.me/918220723381?text=Hi%20Trumax,%20I%20want%20to%20order%20innerwear."
                 className="flex items-center px-3 py-2 bg-red-500 text-white font-medium rounded-lg hover:bg-red-600 transition-colors duration-200 mx-3 mt-4"
               >
                 <MessageCircle className="mr-2 h-4 w-4" />
