@@ -14,7 +14,7 @@ const Footer = () => {
               Quality you can trust, comfort you can feel.
             </p>
             <a
-              href="https://wa.me/919876543210?text=Hi%20Trumax,%20I%20want%20to%20order%20innerwear."
+              href="https://wa.me/918220723381?text=Hi%20Trumax,%20I%20want%20to%20order%20innerwear."
               className="inline-flex items-center px-6 py-3 bg-red-500 text-white font-semibold rounded-lg hover:bg-red-600 transition-colors"
             >
               <MessageCircle className="mr-2 h-5 w-5" />

@@ -8,7 +8,7 @@ const products = [
     tagline: "Ultra-soft, anti-odor protection",
     price: "₹299",
     originalPrice: "₹399",
-    image: "https://images.pexels.com/photos/8532616/pexels-photo-8532616.jpeg?auto=compress&cs=tinysrgb&w=600",
+    image: "bambootrunks.png",
     rating: 4.8,
     reviews: 156,
     features: [
@@ -27,7 +27,7 @@ const products = [
     tagline: "Breathable, shrink-proof comfort",
     price: "₹199",
     originalPrice: "₹249",
-    image: "https://images.pexels.com/photos/8532661/pexels-photo-8532661.jpeg?auto=compress&cs=tinysrgb&w=600",
+    image: "cottonvest.png",
     rating: 4.7,
     reviews: 203,
     features: [
@@ -46,7 +46,7 @@ const products = [
     tagline: "4-way stretch, tag-free design",
     price: "₹349",
     originalPrice: "₹449",
-    image: "https://images.pexels.com/photos/8532695/pexels-photo-8532695.jpeg?auto=compress&cs=tinysrgb&w=600",
+    image: "performanceboxer.png",
     rating: 4.9,
     reviews: 89,
     features: [
@@ -65,7 +65,7 @@ const products = [
     tagline: "Classic comfort, modern fit",
     price: "₹599",
     originalPrice: "₹799",
-    image: "https://images.pexels.com/photos/8532720/pexels-photo-8532720.jpeg?auto=compress&cs=tinysrgb&w=600",
+    image: "premiumbriefset.png",
     rating: 4.6,
     reviews: 124,
     features: [
@@ -84,7 +84,7 @@ const products = [
     tagline: "Winter warmth, all-day comfort",
     price: "₹899",
     originalPrice: "₹1199",
-    image: "https://images.pexels.com/photos/8532750/pexels-photo-8532750.jpeg?auto=compress&cs=tinysrgb&w=600",
+    image: "thermalwear.png",
     rating: 4.8,
     reviews: 67,
     features: [
@@ -103,7 +103,7 @@ const products = [
     tagline: "Active lifestyle essentials",
     price: "₹799",
     originalPrice: "₹999",
-    image: "https://images.pexels.com/photos/8532780/pexels-photo-8532780.jpeg?auto=compress&cs=tinysrgb&w=600",
+    image: "sportstruckspack.png",
     rating: 4.7,
     reviews: 91,
     features: [
