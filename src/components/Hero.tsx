@@ -45,7 +45,7 @@ const Hero = () => {
           <div className="relative">
             <div className="relative overflow-hidden rounded-2xl shadow-2xl">
               <img
-                src="https://i.imgur.com/uNJRj2j.png"
+                src="hero.png"
                 alt="Trumax Premium Men's Innerwear"
                 className="w-full h-auto transform hover:scale-105 transition-transform duration-500"
               />
